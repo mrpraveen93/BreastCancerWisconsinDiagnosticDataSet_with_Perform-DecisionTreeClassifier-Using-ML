@@ -1,0 +1,2 @@
+# BreastCancerWisconsinDiagnosticDataSet_with_Perform-DecisionTreeClassifier-Using-ML
+This project focuses on predicting whether a breast tumor is malignant or benign using machine learning techniques. The dataset consists of cell nucleus characteristics extracted from breast mass images obtained through Fine Needle Aspiration (FNA). By analyzing these features, the model helps support early and accurate cancer diagnosis.
